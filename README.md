@@ -1,4 +1,4 @@
-# ANN_breat_cancer
+# ANN_breast_cancer
 
 - It is the same as the ensemble learning but here we have go with ANN part.
 - Here we have created two hidden layer with relu as activation function 
